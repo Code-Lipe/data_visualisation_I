@@ -1,4 +1,4 @@
-# Linear Modelling
+# Data Visualisation I
 
 Repositório destinado ao meu aprendizado em análise de dados.
 
@@ -8,6 +8,7 @@ A execução do código foi feito no **Google Colab** para uma melhor visualiza�
 
 ## Objetivos:
 
--   Familiariza-se com diferentes distribuições de dados
--   Escolhendo a estrutura do modelo
--   Moledos lineares de prática (e ANOVAs)
+-   Familiarize-se com a sintaxe ggplot2
+-   Decida sobre o tipo certo de enredo
+-   Pratique fazer diferentes enredos com ggplot2
+-   Aprenda a organizar gráficos em um painel e a salvar arquivos
